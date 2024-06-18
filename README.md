@@ -32,15 +32,15 @@ The game continues until one player runs out of ships.
 
 Start
 
-![Start](README_media/win.gif)
+![Start](README_media/Menu/start.png)
 
 Difficulty level selection
 
-![Difficulty level selection](README_media/win.gif)
+![Difficulty level selection](README_media/Menu/level.png)
 
 Ship location selection
 
-![Ship location selection](README_media/win.gif)
+![Ship location selection](README_media/Menu/location.png)
 
 ---
 
