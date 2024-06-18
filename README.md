@@ -46,17 +46,23 @@ Ship location selection
 
 ## Gameplay
 
-Playing against easy-level computer
+Easy level - the computer always chooses cells randomly.
 
 ![Easy level gameplay](README_media/Gameplay/easy.gif)
 
-Playing against medium-level computer
+Medium level - the computer chooses cells randomly, but after the first hit, it tries to finish off the ship.
 
 ![Medium level gameplay](README_media/Gameplay/medium.gif)
 
-Playing against difficult-level computer
+Difficult level - the computer selects cells according to an algorithm and after a hit, it tries to finish off the ship.
 
 ![Difficult level gameplay](README_media/Gameplay/difficult.gif)
+
+In the manual placement mode, the player can strategically place each ship on their grid before starting the game
+
+Example of manual ship placement:
+
+![Manual ship placement](README_media/Gameplay/location.gif)
 
 ---
 
