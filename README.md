@@ -38,9 +38,9 @@ Difficulty level selection
 
 ![Difficulty level selection](README_media/win.gif)
 
-Ship placement selection
+Ship location selection
 
-![Ship placement selection](README_media/win.gif)
+![Ship location selection](README_media/win.gif)
 
 ---
 
@@ -54,9 +54,9 @@ Playing against medium-level computer
 
 ![Medium level gameplay](README_media/lose.gif)
 
-Playing against hard-level computer
+Playing against difficult-level computer
 
-![Hard level gameplay](README_media/lose.gif)
+![Difficult level gameplay](README_media/lose.gif)
 
 ---
 
