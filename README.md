@@ -48,15 +48,15 @@ Ship location selection
 
 Playing against easy-level computer
 
-![Easy level gameplay](README_media/win.gif)
+![Easy level gameplay](README_media/Gameplay/easy.gif)
 
 Playing against medium-level computer
 
-![Medium level gameplay](README_media/lose.gif)
+![Medium level gameplay](README_media/Gameplay/medium.gif)
 
 Playing against difficult-level computer
 
-![Difficult level gameplay](README_media/lose.gif)
+![Difficult level gameplay](README_media/Gameplay/difficult.gif)
 
 ---
 
