@@ -30,15 +30,15 @@ The game continues until one player runs out of ships.
 
 ## Menu
 
-Start
+**Start**
 
 ![Start](README_media/Menu/start.png)
 
-Difficulty level selection
+**Difficulty level selection**
 
 ![Difficulty level selection](README_media/Menu/level.png)
 
-Ship location selection
+**Ship location selection**
 
 ![Ship location selection](README_media/Menu/location.png)
 
@@ -46,21 +46,21 @@ Ship location selection
 
 ## Gameplay
 
-Easy level - the computer always chooses cells randomly.
+**Easy level** - the computer always chooses cells randomly.
 
 ![Easy level gameplay](README_media/Gameplay/easy.gif)
 
-Medium level - the computer chooses cells randomly, but after the first hit, it tries to finish off the ship.
+**Medium level** - the computer chooses cells randomly, but after the first hit, it tries to finish off the ship.
 
 ![Medium level gameplay](README_media/Gameplay/medium.gif)
 
-Difficult level - the computer selects cells according to an algorithm and after a hit, it tries to finish off the ship.
+**Difficult level** - the computer selects cells according to an algorithm and after a hit, it tries to finish off the ship.
 
 ![Difficult level gameplay](README_media/Gameplay/difficult.gif)
 
 In the manual placement mode, the player can strategically place each ship on their grid before starting the game
 
-Example of manual ship placement:
+Example of **manual ship placement**:
 
 ![Manual ship placement](README_media/Gameplay/location.gif)
 
